@@ -1,5 +1,9 @@
 ## Project Name : twitter123
 
+The project is live at https://krupadj.github.io/
+The build files are available at https://github.com/krupadj/krupadj.github.io
+**You can manually set up the _production build_ by following the steps mention below**
+
 #### **Requirements**
 
 NodeJs installed.
